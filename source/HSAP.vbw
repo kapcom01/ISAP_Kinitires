@@ -1,0 +1,13 @@
+frm_main = 12, 7, 761, 517, C, 26, 35, 550, 450, C
+frm_nea_eisagogi = 40, 61, 416, 459, C, 52, 83, 547, 330, C
+frm_nea_kataxorisi = 22, 22, 442, 380, C, 110, 110, 486, 508, C
+refresher = 40, 12, 757, 515, C
+repositioner = 22, 22, 398, 420, C
+id_oximaton = 176, 176, 552, 577, C
+data_search = 22, 22, 442, 380, C
+frm_settings = 110, 110, 480, 511, C, 88, 88, 458, 489, C
+frm_unloading = 198, 198, 568, 599, C, 176, 176, 546, 577, C
+copyfiles = 17, 11, 715, 490, C
+INI_mod = 176, 176, 642, 561, C
+frm_antikatastasi = 44, 44, 439, 409, C, 0, 0, 240, 283, C
+encryption = 22, 22, 417, 387, C
